@@ -5,7 +5,6 @@ class CashRegister
     @total = 0
     self.discount = employee_discount
   end
-
-
+  
 
 end
