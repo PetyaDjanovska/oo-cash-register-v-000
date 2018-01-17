@@ -6,9 +6,6 @@ class CashRegister
     self.discount = employee_discount
   end
 
-  # def discount(employee_discount)
-  #   @discount = employee_discount
-  # end
 
 
 end
