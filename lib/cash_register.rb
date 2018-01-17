@@ -6,7 +6,7 @@ class CashRegister
     self.discount = employee_discount
   end
 
-  def add_item(title, price)
+  def add_item(title, price, quantity = 0)
     self.total += price
   end
 
